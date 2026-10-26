@@ -412,7 +412,7 @@ print(y[:,:,0])
 图像：
 {% asset_img Snipaste_2026-10-03_11-47-16.png "Hexo 博客封面示例" %}
 {% asset_img Snipaste_2026-10-03_12-47-19.png "Hexo 博客封面示例" %}
-{% asset_ing Snipaste_2026-10-03_12-47-25.png "hexo 博客封面示例" %}
+{% asset_img Snipaste_2026-10-03_12-47-25.png "hexo 博客封面示例" %}
 
 
 
@@ -606,7 +606,7 @@ e.reshape(3, 2) 得到的是：
 
 
 
-{% asset_ing Snipaste_2026-10-03_20-26-42.png "hexo 博客封面示例" %}
+{% asset_img Snipaste_2026-10-03_20-26-42.png "hexo 博客封面示例" %}
 
 ## 转置
 
@@ -941,7 +941,7 @@ print(xt2)
 
 ### 3. `permute`：重排所有维度
 补充知识：
-{% asset_ing Snipaste_2026-10-03_21-34-57.png "hexo 博客封面示例" %}
+{% asset_img Snipaste_2026-10-03_21-34-57.png "hexo 博客封面示例" %}
 
 1. 原始三维张量
 ```python
